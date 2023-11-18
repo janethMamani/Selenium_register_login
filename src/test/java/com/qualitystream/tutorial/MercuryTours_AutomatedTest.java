@@ -55,6 +55,7 @@ public class MercuryTours_AutomatedTest {
 		driver.get("https://demo.guru99.com/test/newtours/index.php"); //aqui vos decis en que pagina vas a estar
 		Thread.sleep(2000);
 		Thread.sleep(2000);
+		Thread.sleep(2000);
 
 	}
 
